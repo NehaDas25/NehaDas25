@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NehaDas
 - 👀 I’m interested in making data science projects
-- 🌱 I’m currently pursuing my MS in Computer SCience at California State University, Los Angeles
+- 🌱 I’m have completed my Masters in Computer SCience at California State University, Los Angeles with a GPA of 3.6/4.0 .
 - 💞️ I’m looking to work as a Maching Learning Engineer as a Solutions Architect or Product Architect divisions.
 - 📫 nehadas9619@gmail.com
 
