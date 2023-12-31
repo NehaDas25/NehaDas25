@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NehaDas
 - 👀 I’m interested in making data science projects
 - 🌱 I’m currently pursuing my MS in Computer SCience at California State University, Los Angeles
-- 💞️ I’m looking to work as a Data Engineer, Data Analyst , Data Scientist or Data Architect
+- 💞️ I’m looking to work as a Maching Learning Engineer as a Solutions Architect or Product Architect divisions.
 - 📫 nehadas9619@gmail.com
 
 <!---
